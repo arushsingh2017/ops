@@ -1,0 +1,27 @@
+.wrap{ background-color: #fff; width: 100%; display: flex;}
+.left_pannel {
+    max-width: 600px; background-image: url(/public/images/login_bg.png);
+    height: 100vh;
+    padding: 50px 109px;
+    
+}
+.login-box {
+    position: relative;
+    padding-top: 10%;
+    width: 460px;
+}
+input[type="text"],input[type="mail"], input[type="date"], input[type="email"]  {
+    width: 100%;
+    padding: 8px;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    box-shadow: 0 4px 7px #ddd;
+}
+.input-box label {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.input-box {
+    margin-bottom: 20px;
+}

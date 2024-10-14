@@ -1,0 +1,71 @@
+{
+    "workshop": {
+        "banner_title": "OpsTree Workshops",
+        "banner_dis": "Unlock Your Potential with Our Upcoming Events",
+        "banner_bg": "/images/workshop/event-banner-dark.jpg",
+        "workshop_list": [
+            {
+                "workshop_id":"1",
+                "workshop_img":"/images/workshop/relic_game_day_banner_update.jpg",
+                "workshop_name": "New Relic Game Day",
+                "workshop_date": "23rd Sept 2023",
+                "workshop_time": "11:00 AM – 2:00 PM",
+                "workshop_location": "Offline",
+                "workshop_agenda": "Welcome to our New Relic Game Day event! Here we will be providing you insights of understanding complex systems. Following that, we have a hands-on workshop, where you’ll explore Full Stack Observability. Lastly, don’t miss our observability challenge, where you’ll apply your new found skills to tackle real-world scenarios and optimize your system’s performance.",
+                "workshop_highlights": [
+                    {
+                        "highlights_key": "Welcome & Introduction: Get to know our team and fellow New Relic enthusiasts"
+                    },
+                    {
+                        "highlights_key": "New Relic Overview: Dive into the latest features and updates from New Relic."
+                    },
+                    {
+                        "highlights_key": "Real-World Scenarios: Learn how other customers are leveraging New Relic for success"
+                    },
+                    {
+                        "highlights_key": "Q&A and Networking: Connect with experts and fellow attendees for valuable insights"
+                    }
+                ],
+                "speakers_list":[
+                    {
+                        "speaker_name":"Siddhartha Khare",
+                        "speaker_profile":"Technical Account Manager, New Relic, Inc.",
+                        "speaker_pic":"/images/workshop/siddhartha-khare.png",
+                        "lnk_icon":"/images/workshop/circle-linkedin.webp",
+                        "lnk_id":"https://www.linkedin.com/in/siddhartha-khare/"
+                    },
+                    {
+                        "speaker_name":"Zameer Fouzan",
+                        "speaker_profile":"Senior Developer Relations Engineer, New Relic, Inc.",
+                        "speaker_pic":"/images/workshop/zameer-fouzan.png",
+                        "lnk_icon":"/images/workshop/circle-linkedin.webp",
+                        "lnk_id":"https://www.linkedin.com/in/zmrfzn/"
+                    }
+                ]
+            },
+            {
+                "workshop_id":"2",
+                "workshop_img":"/images/workshop/workshop-cicd-with-azure-3rd-june-2023.jpg",
+                "workshop_name": "Terraform CI/CD with Azure DevOps using Best Practices",
+                "workshop_date": "3rd June 2023",
+                "workshop_time": "11:00 AM – 12:30 PM",
+                "workshop_location": "Online",
+                "workshop_agenda": "2 Welcome to our New Relic Game Day event! Here we will be providing you insights of understanding complex systems. Following that, we have a hands-on workshop, where you’ll explore Full Stack Observability. Lastly, don’t miss our observability challenge, where you’ll apply your new found skills to tackle real-world scenarios and optimize your system’s performance.",
+                "workshop_highlights": [
+                    {
+                        "highlights_key": "Welcome & Introduction: Get to know our team and fellow New Relic enthusiasts"
+                    },
+                    {
+                        "highlights_key": "New Relic Overview: Dive into the latest features and updates from New Relic."
+                    },
+                    {
+                        "highlights_key": "Real-World Scenarios: Learn how other customers are leveraging New Relic for success"
+                    },
+                    {
+                        "highlights_key": "Q&A and Networking: Connect with experts and fellow attendees for valuable insights"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "continuouedelivery": [
+        {
+            "banner_title": "Continuous Delivery & Automation",
+            "banner_dis": "Enable faster application release cycles with our state-of-the-art CI-CD pipeline services.",
+            "banner_bg": "/images/continuous-delivery/continuous-delivery-automation-scaled.jpg",
+            "sub_heading": "Lightning fast product release and seamless automation. Delivered",
+            "subservice": [
+                {
+                    "ser_img": "images/continuous-delivery/iac-middle.png",
+                    "name": "Infrastructure as a code",
+                    "discription": "Evaluate the current readiness of service delivery and toolchain to identify opportunities for enhanced speed and agility. We design and implement an IaC framework that automates the build and deployment of Day one services using the finest Infrastructure-as-Code DevOps practices. Leverage our top-notch IaC solutions and services to-",
+                    "topic_list": [
+                        {
+                            "Topic": "Simplify large-scale configurations"
+                        },
+                        {
+                            "Topic": "Automate Build & Deployment"
+                        },
+                        {
+                            "Topic": "Evaluate Readiness of Service Delivery"
+                        }
+                    ]
+                },
+                {
+                    "ser_img": "images/continuous-delivery/continuous-delivery-middle.png",
+                    "name": "CI-CD pipeline as a code",
+                    "discription": "Configure builds, tests, and deployment in code that is trackable and stored in a centralized source repository. Talk to our tech experts who can assess your teams in deploying CI/CD pipelines through source code which specifies different stages, jobs, and actions in a pipeline, allowing teams to view and monitor the real-time log details of the executed pipelines.",
+                    "topic_list": [
+                        {
+                            "Topic": "Configure Builds & Deployments in code"
+                        },
+                        {
+                            "Topic": "Deploy CI/CD Pipelines via source code"
+                        },
+                        {
+                            "Topic": "View & Monitor log details of Pipeline"
+                        }
+                    ]
+                },
+                {
+                    "ser_img": "images/continuous-delivery/rpa.png",
+                    "name": "RPA & End-to-end automation",
+                    "discription": "Configure builds, tests, and deployment in code that is trackable and stored in a centralized source repository. Talk to our tech experts who can assess your teams in deploying CI/CD pipelines through source code which specifies different stages, jobs, and actions in a pipeline, allowing teams to view and monitor the real-time log details of the executed pipelines",
+                    "topic_list": [
+                        {
+                            "Topic": "Automate Repetitive Tasks"
+                        },
+                        {
+                            "Topic": "Simplify complex processes with bots"
+                        },
+                        {
+                            "Topic": "Leverage the best-fit RPA strategies for your business"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

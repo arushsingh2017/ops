@@ -1,0 +1,76 @@
+
+{
+    "monitoringplatformdata":[
+        {
+            "banner_title": "Monitoring & Platform Reliability",
+            "banner_dis": "Set up a keen vigilance over your platform with our Monitoring and Service Management.",
+            "banner_bg": "/images/monitoring-platform/new-montiring-scaled.jpg",
+            "sub_heading": "Monitor & Track product/system issues and optimise platform requirements with our top-notch support assistance!",
+             "feature_bg":"/images/monitoring-platform/monitor-bg-inner.jpg",
+               "subservice":[
+                {
+                    "name":"360-degree monitoring & service management",
+                    "ser_img":"/images/monitoring-platform/monitoring-thum.png",
+                    "discription":"360-degree proactive monitoring guards your system against external threats and efficiently looks for critical business and platform metrics. We have established default thresholds, metrics and relevant dashboards for a broad set of applications and middleware. SRE team at OpsTree assists you with performance issues based on granular level analysis and enhancing end-user experience.",
+                    "benifit":[
+                        {
+                            "benifit_name":"Safeguard business infrastructures from risks"
+                        },
+                        {
+                            "benifit_name":"Monitor applications for identifying potential threats"
+                        },
+                        {
+                            "benifit_name":"Expedite product enhancement"
+                        },
+                        {
+                            "benifit_name":"Track performance issues based on granular level analysis"
+                        }
+                    ]
+                },
+                {
+                    "name":"NOC & L1 support",
+                    "ser_img":"/images/monitoring-platform/noc_level1_support.png",
+                    "discription":"Our proficient L1 support team goes beyond the typical ‘Eyes on System’ approach and operates with our DevOps DNA. Our NOC teams move beyond the SOP based tasks and get to pattern recognition and even debug & automate initial level of problems. With a robust ramp-up, NOC teams have the working knowledge of the product/service and the ability to resolve initial teething issues across the applications & platform.",
+                    "benifit":[
+                        {
+                            "benifit_name":"Quick response to Customer chats"
+                        },
+                        {
+                            "benifit_name":"Back-end maintenance & Support"
+                        },
+                        {
+                            "benifit_name":"Resolve existing system issues & bugs"
+                        }
+                    ]
+                },
+                {
+                    "name":"Level 2 & 3 platform support operations",
+                    "ser_img":"/images/monitoring-platform/monitoring-thum.png",
+                    "discription":"Platform Reliability and faster recovery is always the focus. Our SRE teams ensure that anomalies are identified, documented and acted upon swiftly. Our highly skilled teams are able to quickly develop an understanding of your business, applications, the platform infrastructure and are able to accordingly optimize these as per the business priorities. Get in touch with our tech experts NOW!",
+                    "benifit":[
+                        {
+                            "benifit_name":"Resolve system and product issues"
+                        },
+                        {
+                            "benifit_name":"Manage L2 & L3 platform operations"
+                        },
+                        {
+                            "benifit_name":"Expedite product enhancement"
+                        }
+                    ]
+                }
+               ],
+
+               "feature":[                   
+                {
+                    "feature_name": "Building Resilience",
+                    "feature_dis": "We believe in creating a sustainable platform operating model. Empowering product & engineering teams with the right set of monitoring tools, automated resolution, committed scaling & performance to align with the customer expectations."
+                },
+                {
+                    "feature_name": "Delivering Reliability",
+                    "feature_dis": "Ensuring maximum uptime and smooth functioning of your platform at all times. Bringing together a comprehensive overview of the platform – understanding the nuances of the service performance."
+                }
+               ]
+        }
+    ]
+}

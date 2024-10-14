@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "register": [
+    {
+      "username": "deepak",
+      "useremail": "deepak@gmail.com",
+      "usercontact": "1234567",
+      "id": 1
+    },
+    {
+      "username": "manish",
+      "useremail": "manish@gmail.com",
+      "usercontact": "12345698765",
+      "id": 2
+    },
+    {
+      "username": "Ajeet Kumar",
+      "useremail": "ajeet@gmail.com",
+      "usercontact": "563243",
+      "id": 3
+    },
+    {
+      "username": "r",
+      "useremail": "r@gmail.com",
+      "usercontact": "1146778",
+      "id": 4
+    },
+    {
+      "username": "div",
+      "useremail": "div@gmail.com",
+      "usercontact": "654321",
+      "id": 5
+    },
+    {
+      "username": "deepak",
+      "useremail": "deepak@gmail.com",
+      "usercontact": "1234578",
+      "id": 6
+    }
+  ]
+}

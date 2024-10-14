@@ -1,0 +1,349 @@
+{
+    "casestudydata":[
+        {
+            "banner_title": "Case Study",
+            "banner_dis": "Few intriguing success stories from some great brands.",
+            "banner_bg": "/images/casestudy/case-studies-new-banner.jpg",
+            "sub_heading": "Why Global startups and Enterprises Rely on us",
+
+            "casestudy_list":[
+                {
+                    "id":"1",
+                    "study_thum":"/images/casestudy/travel-partner-thum-update.png",                   
+                    "title": "B2B Travel Tech Giant undergone a complete platform modernization within 6 weeks",
+                    "shor_dis":"How we enabled smooth performance during peak travel times, along with a quicker development cycle.",
+                    "about_company":"A b2b travel tech Giant headquartered in Delhi with a network of 50,000 travel agents and suppliers in over 100 countries. Its a hub for enabling the connectivity of travel agents with suppliers of travel products and services.",
+                    "customer_problem":[
+                        {
+                            "problem_icon":"/images/casestudy/microservices-deployments.png",
+                            "problem_dis":"Limited ability to scale due to the running of microservices on Amazon EC2 instances with Docker Swarm."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/data-analytics.webp",
+                            "problem_dis":"Faced inconsistency in platform performance."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/cloud_security.svg",
+                            "problem_dis":"Application setup was having issues with security and non-adherence to compliance standards."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/server-attack.png",
+                            "problem_dis":"Manual processes caused delay in deployments which resulted in longer time-to-market and higher chances of errors."
+                        }
+                        
+                    ],
+                    "customer_solution":[
+                        {
+                            "solution_item":"Managed and provisioned AWS VPC and EKS using Terraform to enable a scalable infrastructure that ensures smooth performance during peak travel times."
+                        },
+                        {
+                            "solution_item":"Used shared libraries to streamline development by reusing code across multiple projects, leading to quicker development cycles."
+                        },
+                        {
+                            "solution_item":"Created a new IAM role for EKS via AWS IAM, to improve the overall security posture by managing the permissions and access controls."
+                        },
+                        {
+                            "solution_item":"To create a secure and scalable infrastructure, container images were pushed to AWS ECR, facilitating the migration of microservices to AWS EKS."
+                        },
+                        {
+                            "solution_item":"To proactively fix any potential issue that may hamper user experience, designed a custom monitoring solution with Prometheus, Alertmanager, and Grafana for the EKS cluster."
+                        },
+                        {
+                            "solution_item":"Used helm charts to deploy the monitoring solution and applications over EKS to ensure consistent deployments and configuration for preventing costly downtimes."
+                        },
+                        {
+                            "solution_item":"Leveraged Jenkins for the automation of deployments in EKS, and implemented AWS Backup Service for data loss prevention."
+                        },
+                        {
+                            "solution_item":"To minimize latency and deliver faster load time, AWS Elastic Load Balancer (ELB) was implemented to ensure the high availability of microservices."
+                        },
+                        {
+                            "solution_item":"For improved platform performance and cost optimization, AWS S3 was used for storing and managing container images, application artefacts etc."
+                        },
+                        {
+                            "solution_item":"Implemented AWS RDS for a reliable and scalable managed database solution for ensuring smooth performance even at sudden traffic surges."
+                        },
+                        {
+                            "solution_item":"Installed Karpenter as an autoscaling solution for Kubernetes to optimize resource utilization, consequently reducing the overall platform operational cost."
+                        }
+                    ],
+                    "outcome":[
+                        {
+                            "outcome_icon":"/images/casestudy/setup-icons-1.png",
+                            "outcome_discription":"Completed the entire platform modernization setup in under 6 weeks."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/physicswallah-extended.png",
+                            "outcome_discription":"The platform delivered consistent performance even during periods of traffic surges."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/setup-icons-1.png",
+                            "outcome_discription":"A 10x velocity improvement in time to market."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/cost-saving.svg",
+                            "outcome_discription":"Reduced overall platform operational cost by 2x."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/monitoring-1.svg",
+                            "outcome_discription":"Centralized visibility of the application was achieved with a custom monitoring solution."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/sreliable_application.svg",
+                            "outcome_discription":"Enhanced the overall security, compliance and observability of the platform."
+                        }
+                    ]
+                },
+                {
+                    "id":"2",
+                    "study_thum":"/images/casestudy/ecommerce-casestudy-thum.png",
+                    "title": "Delivering Reliable Deployments at scale along with 70-80% cost savings",
+                    "shor_dis":"Leading Ecommerce in Middle East achieved swift upgradation & migrations with zero downtime, and standardized deployments across multiple clouds.",
+                    "about_company":"Dubai-based online e-commerce giant with multiple platforms and marketplaces, the client offers a complete stack for all e-commerce related payment needs across channels. The product suite includes Payment Gateway, Payment Links, EMIs, & Subscriptions.",
+                    "customer_problem":[
+                        {
+                            "problem_icon":"/images/casestudy/expert-icons.svg",
+                            "problem_dis":"Needed expert guidance to execute the entire infrastructure migration from Azure stack to GCP."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/development-lead-time-update.svg",
+                            "problem_dis":"Increasing development lead time due to developers not having self-serving capabilities."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/cost-data.svg",
+                            "problem_dis":"Due to high compute-intensive works like real-time data processing etc, Azure data centers were incurring a huge cost."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/iac.svg",
+                            "problem_dis":"Defining IaC best practices for complex IT environments with various interconnected systems and services, to handle dependencies and ensure consistent deployments."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/multiple-cloud.svg",
+                            "problem_dis":"Standardizing workflows and processes like security posture, compliance, and managing deployments across multiple clouds were becoming complex."
+                        }
+                    ],
+                    "customer_solution":[
+                        {
+                            "solution_item":"Created a streamlined process flow and migrated the infrastructure from Azure stack to GCP with zero downtime."
+                        },
+                        {
+                            "solution_item":"Implemented Terraform scripts to automate the provisioning and management of infrastructure in GCP, resulting in faster time-to-market."
+                        },
+                        {
+                            "solution_item":"Implemented Platform Engineering to make hassle-free infrastructure deployment for developers."
+                        },
+                        {
+                            "solution_item":"Developed an automated pipeline enabling single-click deployment to implement the blue-green strategy for reducing downtime during updates and enhancing overall system reliability."
+                        },
+                        {
+                            "solution_item":"Deployed fully managed Azure ARC SQL as a service to host applications to manage cross-cloud dependencies, ensuring data consistency, security, and optimized performance."
+                        },
+                        {
+                            "solution_item":"For modernizing and future-proofing the platform, upgraded AzureRM -based pipeline and PowerShell script to new AZ modules with minimal disruption to ongoing operations."
+                        },
+                        {
+                            "solution_item":"Created single architecture CI/CD process to manage environment-specific configurations and ensure consistency in deployment processes for all the microservices across QA-Testing, Staging, and Production in both Azure and GCP"
+                        }
+                    ],
+                    "outcome":[
+                        {
+                            "outcome_icon":"/images/casestudy/cost-saving.svg",
+                            "outcome_discription":"An overall 70 – 80% cost savings was achieved in terms of the operational cost from the data centers."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/rollback.svg",
+                            "outcome_discription":"Automated rollback mechanism with zero disruption on ongoing service. Created a reliable experience for the customers."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/zero-downtime.svg",
+                            "outcome_discription":"Migrated the entire infrastructure from Azure stack to GCP in just 2 months with Zero downtime."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/az.svg",
+                            "outcome_discription":"Within 15 days AzureRM-based pipeline and PowerShell were upgraded to AZ modules."
+                        }
+                        
+                    ]
+                },
+                {
+                    "id":"3",
+                    "study_thum":"/images/casestudy/physicswallah-thum.jpg",
+                    "title": "Uninterrupted live class streaming with 100k concurrent users. Delivered",
+                    "shor_dis":"Implemented a multi-account strategy through AWS Organizations and AWS Control Tower to manage accounts and platform operations at scale.",
+                    "about_company":"Physics Wallah is a multinational Ed-Tech unicorn headquartered in India, primarily focused on providing quality education content at an affordable price for JEE/NEET/NDA/GATE/UPSC aspirants. Currently, the company has a user base of over 6 million active students.",
+                    "customer_problem":[
+                        {
+                            "problem_icon":"/images/casestudy/physicswallah-aws.png",
+                            "problem_dis":"Needed resource independence and isolation, the entire infrastructure (prod + non-prod environments) was held in a single AWS account."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/physicswallah-ensuring.png",
+                            "problem_dis":"Achieve uninterrupted live class streaming at a scale of 50K – 100K concurrent viewers."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/physicswallah-security.png",
+                            "problem_dis":"Continuous security evaluation and traceability, Data Backups to ensure protection against unexpected events or losses."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/physicswallah-alert.png",
+                            "problem_dis":"Lack of alerting for incidents, warnings, cost alarms, operational processes etc."
+                        }
+                        
+                    ],
+                    "customer_solution":[
+                        {
+                            "solution_item":"Set up different AWS accounts with comprehensive segregation of controls. Implemented preventive/detective controls on every account with AWS Control Tower and the defined hierarchy of accounts with AWS Organization."
+                        },
+                        {
+                            "solution_item":"Setup AWS Guarduty and Security hub for centralized findings and reports of all accounts."
+                        },
+                        {
+                            "solution_item":"Created customized Grafana dashboards to visualize critical endpoint SLAs, application-specific metrics, and their dependencies."
+                        },
+                        {
+                            "solution_item":"Implemented comprehensive observability visualization and business intelligence monitoring dashboards with AWS Quicksight."
+                        },
+                        {
+                            "solution_item":"Implemented Cross-region, cross-account RDS backup using Terraform."
+                        },
+                        {
+                            "solution_item":"Integrated Kubecost into the Kubernetes environment to gain comprehensive insights into cost allocation and utilization of its components."
+                        },
+                        {
+                            "solution_item":"Deployed CID Dashboards in AWS to monitor cost utilization per AWS account, service, etc."
+                        }
+                    ],
+                    "outcome":[
+                        {
+                            "outcome_icon":"/images/casestudy/physicswallah-unified.png",
+                            "outcome_discription":"A unified framework for managing accounts at scale with centralized Access and Privilege management"
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/physicswallah-streamlined.png",
+                            "outcome_discription":"Streamlined cost allocation, resource tracking, and security monitoring."
+                        },
+                        
+                        {
+                            "outcome_icon":"/images/casestudy/physicswallah-extended.png",
+                            "outcome_discription":"Extended resilience of the platform to be able to manage a scale of around 100K concurrent users."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/physicswallah-disaster.png",
+                            "outcome_discription":"Disaster recovery setup to handle partial or complete regional outages to prevent data loss."
+                        }
+                        
+                    ]
+                },
+                {
+                    "id":"4",
+                    "study_thum":"/images/casestudy/cloud-platform-resilience.png",
+                    "title": "24/7 Uninterrupted User Experience With Cloud Platform Resilience & Efficient Scaling",
+                    "shor_dis":"How Cloud & DevSecOps empowers a leading Beauty & Fashion Ecommerce Gamechanger to handle 50K+ requests per minute",
+                    "about_company":"The leading Indian e-commerce company specializes in multi-beauty and personal care products. It houses 1,500+ brands and over 1.8 million products, catering to diverse consumers’ journeys across its platform.",
+                    "customer_problem":[
+                        {
+                            "problem_icon":"/images/casestudy/traffic.png",
+                            "problem_dis":"Given the huge incoming traffic, it was getting difficult to balance platform scaling and cost optimization."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/support-.png",
+                            "problem_dis":"Needed extensive Managed DevSecOps support to decrease the cognitive load of their engineering teams."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/time-cost-icon.png",
+                            "problem_dis":"Wanted to cut down their time on self-managing MongoDB which was cumbersome to manage and usually resulted in downtime while performing any software upgrades."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/critical-data.png",
+                            "problem_dis":"Given the diverse services they were dealing with – alerts from every single component were getting populated which increased the mean time to resolution."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/fine-tuning-redis.png",
+                            "problem_dis":"Required fine-tuning of Redis for reducing response times during sales, as the high volumes of data being sent overwhelmed Redis, leading to congestion."
+                        },
+                        {
+                            "problem_icon":"/images/casestudy/efk.png",
+                            "problem_dis":"During the peak sale, they were facing issues with EFK and Kafka which made it difficult to view the logs if any application crashed."
+                        }
+                        
+                    ],
+                    "customer_solution":[
+                        {
+                            "solution_item":"Managed multiple AWS services – From rightsizing them to ensuring their optimum performance by analyzing the associated metrics via Cloudwatch."
+                        },
+                        {
+                            "solution_item":"Reduced noisy alerts with intelligent threshold values and managed their precedence during the sale period. Analyzed the root cause of repeated alerts to reduce the MTTR."
+                        },
+                        {
+                            "solution_item":"Set up parallel sending of logs to Amazon S3 alongside Kafka, ensuring no loss of logs."
+                        },
+                        {
+                            "solution_item":"Set up dashboards and alarms of all services on Grafana and Cloudwatch."
+                        },
+                        {
+                            "solution_item":"Categorized alerts on the basis of criticality, source, and service for efficient prioritization and enabling quick action on genuine incidents."
+                        },
+                        {
+                            "solution_item":"Improved monitoring for automation alerts by attaching screenshots & INC numbers for false alarms."
+                        },
+                        {
+                            "solution_item":"Many cost-optimization processes are established"
+                        },
+                        {
+                            "solution_item":"End-to-end management of their Ad tech platform from the planning of resources during sales, logs handling, new services onboarding, and streamlining daily operations."
+                        },
+                        {
+                            "solution_item":"Migration of MongoDB to DocumentDB for eliminating the operational overhead involved with managing underlying infrastructure scaling, updates, etc."
+                        },
+                        {
+                            "solution_item":"Fine-tuned Redis performance by adding shards to the Redis cluster, which optimized the network bandwidth and eliminated congestion — scaled performance effectively during sales. "
+                        },
+                        {
+                            "solution_item":"Implemented AWS IAM Policy for fine-grained access controls of workloads."
+                        },
+                        {
+                            "solution_item":"Recommended a custom Status Check Page which gave a central view of service connectivity with AWS resources thereby reducing the Dev dependency on DevOps."
+                        }
+                    ],
+                    "outcome":[
+                        {
+                            "outcome_icon":"/images/casestudy/real-time-dashboard.png",
+                            "outcome_discription":"Real-time dashboard creation for newly created services through automation scripts."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/auto-resolve.png",
+                            "outcome_discription":"Suppressed noisy alerts by priority, alert source, tag, and enabled auto-resolve of non-critical alerts."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/automated-remediation.png",
+                            "outcome_discription":"Assessed their business lines for gaps and introduced automated remediation and 360-degree visibility across all services."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/security-.png",
+                            "outcome_discription":"Fortified defenses with SOC implementation to maintain a robust security posture under high-volume user requests."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/user-experience.png",
+                            "outcome_discription":"Prompt incident response and robust governance enabled uninterrupted user experience."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/high-availability.png",
+                            "outcome_discription":"Dedicated support during the sale for ensuring seamless scale of the platform to maintain high availability."
+                        },
+                        {
+                            "outcome_icon":"/images/casestudy/cost-optimized.png",
+                            "outcome_discription":"Standardized, simplified, and rationalized the usage of services for creating a cost-optimized tech platform."
+                        }
+                    ]
+                }
+
+            ]
+
+        }
+
+    ]
+
+   
+
+    
+}

@@ -1,0 +1,131 @@
+{
+    "opensource": {
+        "banner_title": "Some great things are still free",
+        "banner_dis": "this pages is open souce data",
+        "banner_bg": "/images/opensource/open-source-banner.jpg",
+        "banner_bottom": "We believe in knowledge sharing & giving back to the community. As a result of that philosophy, we have never stopped our contributions to the world of Open-Source. Have a look at some of the most promising Open-Source utilities trusted by many great organizations.",
+        "blog_info":"…Most people will say Kubernetes has its own API object to manage the secret. But is it enough to manage the secrets in Kubernetes?" ,
+        "opensource_list": [
+            {
+                "id": "1",
+                "open_name": "Automation",
+                "pages_url":"automation",
+                "open_icon": "/images/opensource/automation-service-icon.svg",
+                "open_dis": "Focus on Innovation. Automate the Rest",
+                "banner_img":"/images/opensource/automation-banner.png",
+                "banner_title":"Automation with Open Source",
+                "banner_dis":"Open Source Tools for Manage Automation",
+                "cat_list": [
+                    {
+                        "cat_id": "1",
+                        "name": "Linux_armour ",
+                        "icon": "",
+                        "dis": "An ansible role to harden linux platform.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/linux_armour/"
+                    },
+                    {
+                        "cat_id": "2",
+                        "name": "User Management",
+                        "icon": "",
+                        "dis": "An ansible role to manage users and groups on linux.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/usermanagement/"
+                    }
+                ]
+            },
+            {
+                "id": "2",
+                "open_name": "Container",
+                "pages_url":"container",
+                "open_icon": "/images/opensource/container_black_icon1.svg",
+                "open_dis": "Achieve the best with tools meant for the container world",
+                "banner_img":"/images/opensource/container-banner.png",
+                "banner_title":"Containerisation with Open Source",
+                "banner_dis":"Open Source Tools for Containerization",
+                "cat_list": [
+                    {
+                        "cat_id": "1",
+                        "name": "Linux_armour 2",
+                        "icon": "",
+                        "dis": "An ansible role to harden linux platform.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/linux_armour/"
+                    },
+                    {
+                        "cat_id": "2",
+                        "name": "User Management 2",
+                        "icon": "",
+                        "dis": "An ansible role to manage users and groups on linux.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/usermanagement/"
+                    }
+                ]
+            },
+            {
+                "id": "3",
+                "open_name": "Cloud",
+                "pages_url":"cloud",
+                "open_icon": "/images/opensource/multiple-cloud.svg",
+                "open_dis": "Analyse new value metrics with open-source utilities for the cloud.",
+                "banner_img":"/images/opensource/cloud-opensource-banner.jpg",
+                "banner_title":"Cloud with Open Source",
+                "banner_dis":"Open Source Tools for Cloud Management",
+                "cat_list": [
+                    {
+                        "cat_id": "1",
+                        "name": "Linux_armour 3",
+                        "icon": "",
+                        "dis": "An ansible role to harden linux platform.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/linux_armour/"
+                    }
+                ]
+            },
+            {
+                "id": "4",
+                "open_name": "Database",
+                "pages_url":"database",
+                "open_icon": "/images/opensource/database-icons.svg",
+                "open_dis": "Explore options to make your database performance seamless.",
+                "banner_img":"/images/opensource/database-opensource-banner.jpg",
+                "banner_title":"Database with Open Source",
+                "banner_dis":"Open Source Tools for Database Management",
+                "cat_list": [
+                    {
+                        "cat_id": "1",
+                        "name": "Linux_armour 4",
+                        "icon": "",
+                        "dis": "An ansible role to harden linux platform.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/linux_armour/"
+                    },
+                    {
+                        "cat_id": "2",
+                        "name": "User Management 4",
+                        "icon": "",
+                        "dis": "An ansible role to manage users and groups on linux.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/usermanagement/"
+                    },
+                    {
+                        "cat_id": "3",
+                        "name": "qfsd ewfwrgf User Management 4",
+                        "icon": "",
+                        "dis": "An ansible role to manage users and groups on linux.",
+                        "c_link": "https://galaxy.ansible.com/ui/standalone/roles/opstree_devops/usermanagement/"
+                    }
+                ]
+            }
+        ],
+
+        "blogs_list":[
+            {
+                "blog_name":"Provisioning Infra and Deployments In AWS : Using Packer, Terraform and Jenkins",
+                "blog_url":"https://blog.opstree.com/2021/08/31/provisioning-infra-and-deployments-in-aws-using-packer-terraform-and-jenkins/"
+            },
+            {
+                "blog_name":"Monitoring Druid with Prometheus",
+                "blog_url":"https://blog.opstree.com/2020/11/10/monitoring-druid-with-prometheus/"
+            },
+            {
+                "blog_name":"Understanding Ansible: Helm diff plugin",
+                "blog_url":"https://blog.opstree.com/2022/10/18/understanding-ansible-helm-diff-plugin/"
+            }
+        ]
+
+    }
+}

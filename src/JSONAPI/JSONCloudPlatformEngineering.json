@@ -1,0 +1,87 @@
+{
+    "cloudplatformengineeringdata": [
+        {
+            "banner_title": "Cloud Platform Engineering",
+            "banner_dis": "Modernize your cloud landscape with multi-hybrid cloud implementations and Iaas/Paas migration services.",
+            "banner_bg": "/images/cloud-platform-engineering/clould-platfrom-scaled.jpg",
+            "sub_heading": "We help you design, build, modernize, implement and scale cloud migration strategies quickly, seamlessly, and cost-efficiently!",
+            "subservice_list": [
+                {
+                    "ser_img": "images/cloud-platform-engineering/cloud-design.webp",
+                    "name": "Cloud platform design & build",
+                    "discription": "Despite the widespread adoption of cloud-first business strategies, many businesses today struggle to accomplish the desired advantages from their cloud efforts. At OpsTree, our team helps in creating unique cloud strategies that are customized at every stage of your business. Our cloud architects assess cloud migration strategies to",
+                    "topic_list": [
+                        {
+                            "Topic": "Build scalable, secure & agile cloud infrastructure"
+                        },
+                        {
+                            "Topic": "Get automated infrastructure management & monitoring"
+                        },
+                        {
+                            "Topic": "Design cloud solutions that don’t snowball as business scales"
+                        }
+                    ]
+                },
+                {
+                    "ser_img": "images/cloud-platform-engineering/hybrid-cloud.webp",
+                    "name": "Hybrid Cloud implementation",
+                    "discription": "Our focus is to help customers with the seamless implementation of hybrid-cloud strategies and in adapting processes & technology no matter whether your business is in early or at an advanced stage of cloud adoption. Our cloud specialists along with extensive utilities that we have built, we assist you in building a reliable, scalable infrastructure for managing hybrid cloud workloads to",
+                    "topic_list": [
+                        {
+                            "Topic": "Lower operational costs"
+                        },
+                        {
+                            "Topic": "Reduce downtime"
+                        },
+                        {
+                            "Topic": "Increase productivity"
+                        }
+                    ]
+                },
+                {
+                    "ser_img": "images/cloud-platform-engineering/cloud-cost.webp",
+                    "name": "AI-Ops & Cloud cost containment",
+                    "discription": "We empower businesses to embrace advanced technologies such as artificial intelligence, machine learning and automation for managing IT operations. Get in touch with our tech experts to innovate faster, reduce operational costs and transform IT operations (ITOps) with an automated platform that delivers visibility into performance data and reduces noise. The focus is to,",
+                    "topic_list": [
+                        {
+                            "Topic": "Reduce and Control cloud services-related ongoing cost"
+                        },
+                        {
+                            "Topic": "Monitor the resource usage on the cloud"
+                        },
+                        {
+                            "Topic": "Transform IT operations"
+                        }
+                    ]
+                },
+                {
+                    "ser_img": "images/cloud-platform-engineering/cloud-migration.webp",
+                    "name": "Iaas/Paas migration",
+                    "discription": "Leverage our cloud accelerators & utilities to move digital assets such as data, workloads, resources and applications to cloud infrastructure. Our teams have helped leading organizations successfully migrate all types of workloads, including large-scale migrations to the cloud. Based on our experience, we assist businesses to",
+                    "topic_list": [
+                        {
+                            "Topic": "Simplify and Accelerate cloud migrations at reduced costs"
+                        },
+                        {
+                            "Topic": "Migrate large-scale infrastructures to the cloud"
+                        },
+                        {
+                            "Topic": "Design the best cloud-migration strategies & tools"
+                        }
+                    ]
+                }
+            ],
+            "feature_bg": "./images/cloud-platform-engineering/cloud-platform-engineering-case-study.jpg",
+            "feature_list": [
+                {
+                    "feature_name": "Business-first Cloud strategy",
+                    "feature_dis": "Structuring an approach based on how Cloud can elevate your business. Bringing forth agility, scalability and security; tailored distinctly to support your infrastructural needs, while ensuring Cloud costs don’t snowball."
+                },
+                {
+                    "feature_name": "Automate your Cloud",
+                    "feature_dis": "Choose the blend of public and private Cloud spheres for your applications and leave the rest to us. We ensure right automation is leveraged to onboard, migrate, deploy and scale your business applications."
+                }
+            ]
+        }
+    ]
+}

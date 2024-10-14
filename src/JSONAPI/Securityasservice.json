@@ -1,0 +1,77 @@
+{
+    "securityasservicedata":[
+        {
+            "banner_title": "Security as a Service",
+            "banner_dis": "Create a fortress of security with our state-of-the-art Cloud Security Architecture & Secure Pipeline services.",
+            "banner_bg": "/images/security-as-service/security-as-service-1-scaled.jpg",
+            "sub_heading": "Identify threats, mitigate issues, and get complete visibility of all events with real-time monitoring & security policies!",
+
+            "subservice":[
+                {   
+                    "ser_img":"images/security-as-service/24x7-monitoring.png",
+                    "name":"24×7 monitoring",
+                    "discription":"We design and implement Application Security & Monitoring strategies to oversee the performance of software applications. Our approach involves developing continuous monitoring of all events, mitigating security risks such as intrusion attempts, malware infections, or unauthorized access. Our security experts ensure early detection of errors, crashes, and slow response times around the clock, empowering teams with",
+                    "benifit": [
+                        {
+                            "benifit_name":"Real-time insights into system behaviour via dashboards"
+                        },
+                        {
+                            "benifit_name": "Ensured cloud security & compliance for optimal performance"
+                        },
+                        {
+                            "benifit_name":"24/7 monitoring of website performance to avoid downtime"
+                        }
+                    ]
+                },
+                {
+                    "ser_img":"images/security-as-service/security-audits.png",
+                    "name":"Security Audits",
+                    "discription":"Our security audit team evaluates the execution of the organization’s security policies and the effectiveness of the team’s response to cyber threats. Following thorough assessments and information gathering, our DevSecOps team analyzes the findings and prepares a continuous security validation report. The report highlights vulnerabilities and offers recommendations for enhancing security. We conduct",
+                    "benifit": [
+                        {
+                            "benifit_name":"Comprehensive security assessments for cloud infrastructure"
+                        },
+                        {
+                            "benifit_name": "Regular security audits using the best industry-standard practices"
+                        },
+                        {
+                            "benifit_name":"Penetration testing, vulnerability scanning & configuration reviews"
+                        }
+                    ]
+                },
+                {
+                    "ser_img":"images/security-as-service/cloud-security.png",
+                    "name":"Cloud security architecture & implementation",
+                    "discription":"By leveraging Cloud Security Architecture & Implementation services, organizations can confidently embrace the benefits of cloud computing while mitigating security risks. We assist organizations in developing a comprehensive migration strategy that addresses security concerns throughout their cloud implementation journey. Our cloud security team has expertise in all major cloud service providers, like AWS, Azure, Google Cloud, and many more. We help businesses",
+                    "benifit": [
+                        {
+                            "benifit_name":"Implement relevant & compliant cloud security frameworks"
+                        },
+                        {
+                            "benifit_name": "Securely migrate to and operate in cloud environments"
+                        },
+                        {
+                            "benifit_name":"Build a secure foundation for cloud service architecture"
+                        }
+                    ]
+                },
+                {
+                    "ser_img":"images/security-as-service/secure-pipeline.png",
+                    "name":"Secure pipeline implementation",
+                    "discription":"Our Secure Pipeline Implementation services ensure a secure workflow throughout the development process. We conduct code reviews and regular security testing to identify and address vulnerabilities in your pipeline code. Our DevSecOps experts implement robust authentication mechanisms, ensuring that only authorized individuals can access and modify the pipeline components. We,",
+                    "benifit": [
+                        {
+                            "benifit_name":"Validate and monitor all inputs received by the pipeline"
+                        },
+                        {
+                            "benifit_name": "Ensure pipeline security complies with industry standards"
+                        },
+                        {
+                            "benifit_name":"Set up alerts and notifications for potential security breaches"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

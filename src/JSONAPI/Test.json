@@ -1,0 +1,18 @@
+{
+    "faimly": [
+        {
+          "id": 1,
+          "name": "Divyanshu",
+          "age": "21",
+          "dob": "12-01-2024",
+          "friendList": ["anant", "Maneesh"]
+        },
+        {
+          "id": 2,
+          "name": "Rajat",
+          "age": "23",
+          "dob": "12-05-2024",
+          "friendList": ["raghu", "Maneesh"]
+        }
+      ]
+}

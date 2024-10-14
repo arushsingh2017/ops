@@ -1,0 +1,66 @@
+{
+    "kubernetescontainerization":[
+        {
+            "banner_title": "Kubernetes & Containerisation",
+            "banner_dis": "Make containerization & Kubernetes journey seamless from Day 1 with our managed Kubernetes services.",
+            "banner_bg": "/images/cloud-platform-engineering/clould-platfrom-scaled.jpg",
+            "sub_heading": "Build, deploy & manage Kubernetes workload applications seamlessly",
+            
+            "Kubernetes_categories":[
+                {
+                    "cname": "Run & manage kubernetes at enterprise scale",
+                    "c_discription":"Our comprehensive services ensure that your Kubernetes clusters & containers scale and remain highly available to accommodate evolving workloads and maintain service uptime. We will guide you through the setup and provisioning of Kubernetes clusters, ensuring  optimal configuration of cluster nodes, networking, storage, and security policies, as per the compliance standards to help you,",
+                    "c_img":"/images/kubernetescontainerization/run-and-manage-kubernetes-thum.png",
+
+                    "topic_list":[
+                        {
+                            "topice":"Manage clusters across multi/hybrid clouds"
+                        },
+                        {
+                            "topice":"Monitor the health of cluster components"
+                        },
+                        {
+                            "topice":"Use auto-scaling for cost optimization"
+                        }
+                    ]
+                },
+                {
+                    "cname": "Managed kubernetes designed for you",
+                    "c_discription":"Our Managed Kubernetes delivery approach focuses on making Kubernetes – Microservice Application ready!. Introducing BuildPiper -An Engineering Productivity Platform, designed to streamline Kubernetes management highly intuitive, secure, and flexible for users. BuildPiper enables DevOps & SRE teams to securely and seamlessly manage the",
+                    "c_img":"/images/kubernetescontainerization/managed-kubernetes-thum.png",
+
+                    "topic_list":[
+                        {
+                            "topice":"Onboarding of an existing K8s cluster from any cloud"
+                        },
+                        {
+                            "topice":"Setting up of a complete infrastructure and K8s cluster on AWS"
+                        },
+                        {
+                            "topice":"Setting up of a Kubernetes cluster on-premise"
+                        }
+                    ]
+                },
+                {
+                    "cname": "Kubernetes insights & 360-degree cluster view",
+                    "c_discription":"Get out-of-the-box cluster observability capabilities to monitor the complete performance, health status, and availability of your cluster components. BuildPiper offers a comprehensive observability and security tooling dashboard by leveraging a mix of built-in functionalities and industry-leading tools like Grafana, Prometheus, Vault, Consul, Alert Manager, and others. With our Kubernetes and containerization services, teams can:",
+                    "c_img":"/images/kubernetescontainerization/kubernetes-insights-thum.png",
+
+                    "topic_list":[
+                        {
+                            "topice":"Manage external access to services in your cluster"
+                        },
+                        {
+                            "topice":"View cluster components via K8s dashboard"
+                        },
+                        {
+                            "topice":"Monitor how resources within a cluster are being used"
+                        }
+                    ]
+                }
+
+            ]
+        }
+        
+    ]
+}

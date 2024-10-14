@@ -1,0 +1,21 @@
+{
+    "awsconsltingdata":{
+        "banner_title": "OpsTree + AWS : Redefine your AWS Maturity with Seasoned Expertise",
+        "banner_img":"/images/aws-consulting/aws-consulting-banner.jpg",
+        "banner_dis": "Your trusted advisors to scale your business with AWS. Proud digital transformation partners of leading startups, scaleups, SMBs, and Enterprises.",
+        "aws_heading":"AWS Infrastructure & Solutions that Deliver Accelerated Product & Technology Outcomes with Scalability, Agility & Efficiency!",
+        "aws_ads_banner":"/images/aws-consulting/aws-marketplace-opstree-update2.webp",
+        "aws_dis":"Creating a sustainable, agile business model that scales with your customer base with no added operational hours. OpsTree’s 100+ utilities and mature accelerators, delivery tools, and methods address our client’s toughest challenges.",
+        "aws_certification":[
+            {
+                "aws_bedge":"images/aws-consulting/aws-badge-1.webp"
+            },
+            {
+                "aws_bedge":"images/aws-consulting/aws-badge-2.webp"
+            },
+            {
+                "aws_bedge":"images/aws-consulting/badge-war.webp"
+            }
+        ]
+    }
+}
